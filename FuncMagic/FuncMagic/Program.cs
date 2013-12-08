@@ -6,10 +6,12 @@ namespace FuncMagic
 
     //following is an example of the generic delegate
     internal delegate T Transform<T>(T args);
-
+    /// <summary>
+    /// This is a test and a bug fix
+    /// </summary>
     internal class Program
     {
-        public readonly int x = 5;
+        public static readonly int x = 5;
 
         private static void Main()
         {
