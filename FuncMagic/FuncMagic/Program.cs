@@ -1,5 +1,6 @@
 ﻿using System;
-//git source control plugin details availble @ http://gitscc.codeplex.com/documentation
+//git source control plugin details availble @ http://gitscc.codeplex.com/documentation 
+//this is ab
 
 namespace FuncMagic
 {
