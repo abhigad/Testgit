@@ -13,7 +13,7 @@ namespace FuncMagic
     /// </summary>
     internal class Program
     {
-        public static readonly int x = 5;
+        public static readonly int x = 15;
 
         private static void Main()
         {
